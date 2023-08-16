@@ -1,3 +1,3 @@
-The purpose of this exercise is to implement a neural network connected-fully forward-feed, and train it on
-.MNIST dataset
-The optimization in this project is with the help of GD in my implementation.
+The objective of this exercise is to design and implement a fully connected feed-forward neural network. This type of neural network is characterized by its layers being fully connected, meaning each neuron in one layer connects to every neuron in the subsequent layer. Our primary dataset for training and testing this network is the MNIST dataset, which is a renowned collection of handwritten digits commonly used in pattern recognition and machine learning tasks. 
+
+For the optimization process, I have employed Gradient Descent (GD) in my implementation. Gradient Descent is a first-order iterative optimization algorithm used to minimize the cost function, ensuring that the neural network adjusts its weights and biases to improve accuracy over iterations. This project, therefore, not only focuses on building the neural network but also emphasizes the importance of optimization techniques in enhancing its performance.
