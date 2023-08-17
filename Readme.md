@@ -1,7 +1,8 @@
-🧠 Deep Dive into Neural Connectivity: Crafting a Full-Fledged Feed-forward Neural Network 🚀
+# 🧠 Deep Dive into Neural Connectivity: Crafting a Full-Fledged Feed-forward Neural Network 🚀
+
 Unveil the intricacies of neural networks! In this venture, we embark on designing a fully connected, feed-forward neural network, an architecture where each neuron establishes connections with every single neuron in its succeeding layer. With the renowned MNIST dataset 📊, known for its collection of handwritten digits ✏️, as our backdrop, we push the boundaries of pattern recognition and machine learning.
 
-Neural Network Characteristics 🛠
+## Neural Network Characteristics 🛠
 Fully Connected Layers: A setup where every neuron connects to all neurons in the subsequent layer.
 Dataset: The acclaimed MNIST dataset serving as our primary training and testing ground.
 Optimization: Embracing Gradient Descent ⚙️
